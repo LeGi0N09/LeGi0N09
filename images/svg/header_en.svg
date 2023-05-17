@@ -187,11 +187,11 @@ g.typingUnderline rect {
   </textPath>
 </text>
 
-<g class="typingUnderline">
+<!-- <g class="typingUnderline">
   <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
       <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
   </rect>
-</g>
+</g> -->
 
 <path id="descriptionTyping">
   <animate attributeName="d" from="m30,-3 h0" to="m30,-3 h100" 
