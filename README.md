@@ -162,3 +162,10 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <img src="https://komarev.com/ghpvc/?username=LeGi0N09&style=plastic&label=Views"><img>
 <!-- <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" /> -->
 </p>
+
+
+
+## 🎧 What am I listening to?
+
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rwlkrq65ddtmorlyw61004led&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rwlkrq65ddtmorlyw61004led&redirect=true)
