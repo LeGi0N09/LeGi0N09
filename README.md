@@ -107,7 +107,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <!-- ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp; -->
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
-![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
+<!-- ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp; -->
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 <!-- ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
