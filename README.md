@@ -30,6 +30,21 @@
 </p>
 
 <hr />
+<p align="center">
+<!--  <a href="https://ko-fi.com/X8X48056Q">
+   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
+ </a> -->
+</p>
+
+## 🎧 What am I listening to?
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rwlkrq65ddtmorlyw61004led&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rwlkrq65ddtmorlyw61004led&redirect=true)
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=LeGi0N09&style=plastic&label=Views"><img>
+<!-- <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" /> -->
+</p>
 
 <p align="center">
   <picture>
@@ -38,3 +53,5 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Myoschen/Myoschen/output/github-snake.svg">
   </picture>
 </p>
+
+
