@@ -22,10 +22,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="52.5%" src="https://github-readme-stats-myoschen.vercel.app/api?username=LeGioN09&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github&custom_title=Github%20Stats&bg_color=16161c" alt="Myoschen's GitHub Stats" />
+    <img width="52.5%" src="https://github-readme-stats-myoschen.vercel.app/api?username=LeGioN09&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github&custom_title=Github%20Stats&bg_color=16161c" alt="LeGioN09's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="40%" src="https://github-readme-stats-myoschen.vercel.app/api/top-langs/?username=LeGioN09&layout=compact&langs_count=6&theme=dark&hide_border=true&custom_title=Top%20Languages&bg_color=16161c" alt="Myoschen's Top Langs" />
+    <img width="40%" src="https://github-readme-stats-myoschen.vercel.app/api/top-langs/?username=LeGioN09&layout=compact&langs_count=6&theme=dark&hide_border=true&custom_title=Top%20Languages&bg_color=16161c" alt="LeGioN09's Top Langs" />
   </a>
 </p>
 
