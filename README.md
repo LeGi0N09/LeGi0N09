@@ -46,6 +46,8 @@
 <!-- <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" /> -->
 </p>
 
+<hr />
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Myoschen/Myoschen/output/github-snake.svg">
@@ -53,5 +55,4 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Myoschen/Myoschen/output/github-snake.svg">
   </picture>
 </p>
-
 
