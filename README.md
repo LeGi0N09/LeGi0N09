@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kyechan99/capsule-render](https://git.io/typing-svg)">
+  <a href="https://github.com/LeGioN09/capsule-render](https://git.io/typing-svg)">
     <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=700&size=36&duration=4000&pause=1500&color=5D699B&background=FFFFFF00&center=true&vCenter=true&width=756&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Priyansh Modi!;%E2%9C%A8+Frontend+Developer;%E2%9C%A8+.NET+Developer" alt="Typing SVG"/>
   </a>
   <a href="https://github.com/LeGioN09/capsule-render">
