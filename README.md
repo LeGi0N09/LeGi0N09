@@ -38,14 +38,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rwlkrq65ddtmorlyw61004led&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rwlkrq65ddtmorlyw61004led&redirect=true)
 
-<hr />
-
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=LeGi0N09&style=plastic&label=Views"><img>
-<!-- <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" /> -->
-</p>
-
 
 <p align="center">
   <picture>
@@ -53,4 +45,13 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myoschen/Myoschen/output/github-snake-dark.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/Myoschen/Myoschen/output/github-snake.svg">
   </picture>
+</p>
+
+
+<hr />
+
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=LeGi0N09&style=plastic&label=Views"><img>
+<!-- <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" /> -->
 </p>
