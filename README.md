@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=LeGi0n09&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Widgetbox"/>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=LeGi0n09&data=followers,repositories,stars,commits&theme=aether" alt="GitHub Widgetbox"/>
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
     <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,csharp,python,c&frameworks=.net,dotnetcore,tailwind,bootstrap&tools=git,npm,firebase,mongodb,vercel,vscode&theme=dark" alt="GitHub Widgetbox" />
