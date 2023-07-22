@@ -35,10 +35,9 @@
 
 ## 🎧 What am I listening to?
 
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rwlkrq65ddtmorlyw61004led&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rwlkrq65ddtmorlyw61004led&redirect=true)
 
-<hr />
+<!-- <hr />
 
 <p align="center">
   <picture>
@@ -46,11 +45,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeGi0N09/LeGi0N09/output/github-snake-dark.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/LeGi0N09/LeGi0N09/output/github-snake.svg">
   </picture>
-</p>
-
+</p> -->
 
 <hr />
-
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=LeGi0N09&style=plastic&label=Views"><img>
