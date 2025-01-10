@@ -29,10 +29,6 @@
   </a>
 </p>
 
-<hr />
-<p align="center">
-</p>
-
 <!-- <hr />
 
 <p align="center">
