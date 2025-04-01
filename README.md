@@ -14,7 +14,7 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=LeGi0n09&data=followers,repositories,stars,commits&theme=aether" alt="GitHub Widgetbox"/>
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,java,scala,c&frameworks=dotnetcore,tailwind,bootstrap&tools=aws,git,npm,firebase,mongodb,vercel,vscode,Jupyter&theme=dark" alt="GitHub Widgetbox" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,java,scala,c&frameworks=dotnetcore,tailwind,bootstrap&tools=aws,git,firebase,mongodb,vercel,vscode,Jupyter&theme=dark" alt="GitHub Widgetbox" />
   <a/>
 </p>
 
