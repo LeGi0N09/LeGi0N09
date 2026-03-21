@@ -36,5 +36,4 @@
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=LeGi0N09&style=plastic&label=Views"><img>
 </p>
-yle=plastic&label=Views"><img>
 </p>
