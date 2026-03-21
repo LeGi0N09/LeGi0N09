@@ -1,21 +1,13 @@
-<p align="center">
-<!--   <a href="https://github.com/LeGioN09/capsule-render](https://git.io/typing-svg)">
-    <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=700&size=36&duration=4000&pause=1500&color=5D699B&background=FFFFFF00&center=true&vCenter=true&width=756&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Priyansh Modi!;%E2%9C%A8+Software+Developer;%E2%9C%A8+Data+Engineer" alt="Typing SVG"/>
-  </a> -->
-<!--   <a href="https://github.com/LeGioN09/capsule-render">
-    <img style="border-radius: 1rem;margin-top: -2rem;" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&section=footer" alt="Header"/>
-  </a> -->
-</p>
 
 <hr />
 
 <p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=LeGi0n09&data=followers,repositories,stars,commits&theme=aether" alt="GitHub Widgetbox"/>
+  <a href="https://github.com/LeGi0N09/GitWidgets">
+    <img src="https://git-widgets.vercel.app/api/profile?username=LeGi0n09&data=followers,repositories,stars,commits&theme=aether" alt="GitHub Widgetbox"/>
   </a>
-  <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,java,scala,c&frameworks=dotnetcore,tailwind,bootstrap&tools=aws,git,firebase,mongodb,vercel,vscode,Jupyter&theme=dark" alt="GitHub Widgetbox" />
-  <a/>
+<a href="https://github.com/LeGi0N09/GitWidgets">
+  <img src="https://git-widgets.vercel.app/api/skills?languages=python,sql,scala,java&frameworks=pyspark,fastapi&tools=snowflake,databricks,kafka,aws,git,tableau,excel,Jupyter&theme=dark" alt="GitHub Widgets" />
+</a>
 </p>
 
 <hr />
@@ -29,7 +21,7 @@
   </a>
 </p>
 
-<!-- <hr />
+<hr />
 
 <p align="center">
   <picture>
@@ -37,11 +29,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeGi0N09/LeGi0N09/output/github-snake-dark.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/LeGi0N09/LeGi0N09/output/github-snake.svg">
   </picture>
-</p> -->
+</p>
 
 <hr />
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=LeGi0N09&style=plastic&label=Views"><img>
-<!-- <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" /> -->
 </p>
