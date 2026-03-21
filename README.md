@@ -6,7 +6,7 @@
     <img src="https://git-widgets.vercel.app/api/profile?username=LeGi0n09&data=followers,repositories,stars,commits&theme=aether" alt="GitHub Widgetbox"/>
   </a>
 <a href="https://github.com/LeGi0N09/GitWidgets">
-  <img src="https://git-widgets.vercel.app/api/skills?languages=python,sql,scala,aws&frameworks=pyspark,fastapi,Jupyter&tools=snowflake,databricks,kafka,git,tableau,excel&theme=dark" alt="GitHub Widgets" />
+  <img src="https://git-widgets.vercel.app/api/skills?languages=python,sql,scala,aws&frameworks=pyspark,fastapi,Jupyter&tools=snowflake,databricks,kafka,git,tableau,excel&theme=dark&includeNames=true" alt="GitHub Widgets" />
 </a>
 </p>
 
